@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Ordenar_Elementos" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Ordenar_Elementos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Ordenar_Elementos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Burbuja.h" />
+		<Unit filename="include/Insercion.h" />
+		<Unit filename="include/Ordenar.h" />
+		<Unit filename="include/Quicksort.h" />
+		<Unit filename="include/Seleccion.h" />
+		<Unit filename="include/Shell.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Burbuja.cpp" />
+		<Unit filename="src/Insercion.cpp" />
+		<Unit filename="src/Ordenar.cpp" />
+		<Unit filename="src/Quicksort.cpp" />
+		<Unit filename="src/Seleccion.cpp" />
+		<Unit filename="src/Shell.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

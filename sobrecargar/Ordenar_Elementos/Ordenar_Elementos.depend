@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1464752775 source:c:\users\luis fernando\desktop\ordenar_elementos\main.cpp
+	<iostream>
+	"Ordenar.h"
+	"Burbuja.h"
+	"Insercion.h"
+	"Seleccion.h"
+	"Shell.h"
+
+1464733613 source:c:\users\luis fernando\desktop\ordenar_elementos\src\burbuja.cpp
+	"Burbuja.h"
+
+1464733613 c:\users\luis fernando\desktop\ordenar_elementos\include\burbuja.h
+	<Ordenar.h>
+
+1464735241 c:\users\luis fernando\desktop\ordenar_elementos\include\ordenar.h
+
+1464733613 source:c:\users\luis fernando\desktop\ordenar_elementos\src\ordenar.cpp
+	"Ordenar.h"
+	<iostream>
+
+1464734122 source:c:\users\luis fernando\desktop\ordenar_elementos\src\insercion.cpp
+	"Insercion.h"
+
+1464734057 c:\users\luis fernando\desktop\ordenar_elementos\include\insercion.h
+	<Ordenar.h>
+
+1464734628 source:c:\users\luis fernando\desktop\ordenar_elementos\src\seleccion.cpp
+	"Seleccion.h"
+	<iostream>
+
+1464734628 c:\users\luis fernando\desktop\ordenar_elementos\include\seleccion.h
+	<Ordenar.h>
+
+1464752479 c:\users\luis fernando\desktop\ordenar_elementos\include\shell.h
+	"Ordenar.h"
+
+1464752721 source:c:\users\luis fernando\desktop\ordenar_elementos\src\shell.cpp
+	"Shell.h"
+

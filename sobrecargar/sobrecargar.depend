@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1466012350 source:c:\users\luis fernando\desktop\sobrecargar\main.cpp
+	<iostream>
+	"lista.h"
+	"nodo.h"
+	<conio.h>
+
+1466012183 c:\users\luis fernando\desktop\sobrecargar\include\lista.h
+	"nodo.h"
+
+1465849965 c:\users\luis fernando\desktop\sobrecargar\include\nodo.h
+
+1465849958 source:c:\users\luis fernando\desktop\sobrecargar\src\nodo.cpp
+	"nodo.h"
+	<iostream>
+
+1466012483 source:c:\users\luis fernando\desktop\sobrecargar\src\lista.cpp
+	"lista.h"
+	<iostream>
+
+1466012350 source:c:\users\luis fernando\desktop\ipoo\sobrecargar\main.cpp
+	<iostream>
+	"lista.h"
+	"nodo.h"
+	<conio.h>
+
+1466012183 c:\users\luis fernando\desktop\ipoo\sobrecargar\include\lista.h
+	"nodo.h"
+
+1465849965 c:\users\luis fernando\desktop\ipoo\sobrecargar\include\nodo.h
+
+1466012483 source:c:\users\luis fernando\desktop\ipoo\sobrecargar\src\lista.cpp
+	"lista.h"
+	<iostream>
+
+1465849958 source:c:\users\luis fernando\desktop\ipoo\sobrecargar\src\nodo.cpp
+	"nodo.h"
+	<iostream>
+
