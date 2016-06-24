@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1466619771 source:c:\users\luis fernando\desktop\singlet\main.cpp
+	<iostream>
+	"lista.h"
+
+1466619547 source:c:\users\luis fernando\desktop\singlet\src\lista.cpp
+	"lista.h"
+	<iostream>
+
+1466619524 c:\users\luis fernando\desktop\singlet\include\lista.h
+	"nodo.h"
+	<iostream>
+
+1466619467 c:\users\luis fernando\desktop\singlet\include\nodo.h
+
+1466619525 source:c:\users\luis fernando\desktop\singlet\src\nodo.cpp
+	"nodo.h"
+	<iostream>
+
