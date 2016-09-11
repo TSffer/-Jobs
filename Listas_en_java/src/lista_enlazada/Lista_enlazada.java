@@ -28,7 +28,10 @@ public class Lista_enlazada {
         
         lista_doble df=lista_doble.getinstancia();
         df.MostrarAdelante();
-        
+        System.out.println("_____________________________________________________");
+        lista_doble jj=lista_doble.getinstancia();
+        jj.MostrarRegreso();
+        jj.ExtraerFin();
     }
     
 }

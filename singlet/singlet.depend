@@ -17,3 +17,21 @@
 	"nodo.h"
 	<iostream>
 
+1466620758 source:c:\users\luis fernando\documents\github\trabajos\-jobs\singlet\main.cpp
+	<iostream>
+	"lista.h"
+
+1466619524 c:\users\luis fernando\documents\github\trabajos\-jobs\singlet\include\lista.h
+	"nodo.h"
+	<iostream>
+
+1466619467 c:\users\luis fernando\documents\github\trabajos\-jobs\singlet\include\nodo.h
+
+1466619547 source:c:\users\luis fernando\documents\github\trabajos\-jobs\singlet\src\lista.cpp
+	"lista.h"
+	<iostream>
+
+1466619525 source:c:\users\luis fernando\documents\github\trabajos\-jobs\singlet\src\nodo.cpp
+	"nodo.h"
+	<iostream>
+

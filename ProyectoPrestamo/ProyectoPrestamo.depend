@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1469831465 source:/home/luis/Documentos/ProyectoPrestamo/main.cpp
+	<iostream>
+	"prestamo.h"
+
+1469826876 source:/home/luis/Documentos/ProyectoPrestamo/src/fecha.cpp
+	"fecha.h"
+	<iostream>
+	<iomanip>
+	"fecha.h"
+
+1469669846 /home/luis/Documentos/ProyectoPrestamo/include/fecha.h
+	<iostream>
+
+1469831430 /home/luis/Documentos/ProyectoPrestamo/include/prestamo.h
+	"fecha.h"
+	"persona.h"
+
+1469671267 /home/luis/Documentos/ProyectoPrestamo/include/persona.h
+	"fecha.h"
+	"telefono.h"
+
+1469670280 /home/luis/Documentos/ProyectoPrestamo/include/telefono.h
+	<iostream>
+
